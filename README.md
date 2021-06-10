@@ -2,7 +2,7 @@
 
 - 👀 My current area of expertise is Intelligent Automation, in my current role I'm in charge of designing RPA/ML automations from an architecture perspective, I'm in charge of oveseeing the performance of bots in production environment, and maintaining the libraries of reusable components for the development team. At the moment I am routing my career towards Data Science, involving more and more in data solutions, analytics and insight.
  
-- 🌱 My main power stack these days is:
+- 🌱 My stack these days is:
 
     Languages: Python, Java, JavaScript
     Frameworks: Vue.js, Spring, Flask
