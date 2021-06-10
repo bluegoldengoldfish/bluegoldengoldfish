@@ -4,7 +4,7 @@
  
 - 🌱 My stack these days is:
 
-    --Languages: Python, Java, JavaScript
+    -Languages: Python, Java, JavaScript
     --Frameworks: Vue.js, Spring, Flask
     Databases: SQL Server, DB2, MongoDB, Cassandra
     RPA: Workfusion, UiPath, Nintex
