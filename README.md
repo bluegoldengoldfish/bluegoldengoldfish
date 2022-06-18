@@ -5,8 +5,8 @@
 🌱 My stack these days is:
  * Languages: Python, Java, JavaScript
  * Frameworks: Vue.js, Spring, Flask
- * Databases: SQL Server, DB2, MongoDB, Cassandra
- * RPA: Workfusion, UiPath, Nintex
+ * Databases: SQL Server, DB2, MongoDB, Dynamo DB, Cassandra
+ * RPA: Workfusion, UiPath, Nintex, Power Automate
  * Visualization: Power BI, Kibana, Tableau
 
 <!-- - 💞️ I’m looking to collaborate on ...-->
