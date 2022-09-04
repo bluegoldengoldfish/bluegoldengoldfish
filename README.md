@@ -2,12 +2,12 @@
 
 👀 My current area of expertise is Intelligent Automation, in my current role I'm in charge of designing RPA/ML automations from an architecture perspective, I'm in charge of oveseeing the performance of bots in production environment, and maintaining the libraries of reusable components for the development team. At the moment I am routing my career towards Data Science, involving more and more in data solutions, analytics and insight.
 
-🌱 My stack these days is:
+🌱 My stack:
  * Languages: Python, Java, JavaScript
  * Frameworks: Vue.js, Spring, Flask
  * Databases: SQL Server, DB2, MongoDB, Dynamo DB, Cassandra
- * RPA: Workfusion, UiPath, Nintex, Power Automate
- * Visualization: Power BI, Kibana, Tableau
+ * Data engineering: Spark, Databricks, Kafka
+ * RPA: Workfusion, UiPath, Automation Anywhere, Power Automate, Nintex
 
 <!-- - 💞️ I’m looking to collaborate on ...-->
 📫 Find me on twitter as @emaj7b5
