@@ -1,16 +1,46 @@
-👋 Hi! My name is Edwin, I was born in Guatemala and I started coding when I was 14. In my years in IT I have served different roles such as helpdesk technician, app support, software developer and more recently a solution architect.
+# Consultant | Code/Low Code Automation | AI
 
-👀 My current area of expertise is Intelligent Automation, in my current role I'm in charge of designing RPA/ML automations from an architecture perspective, I'm in charge of oveseeing the performance of bots in production environment, and maintaining the libraries of reusable components for the development team. At the moment I am routing my career towards Data Science, involving more and more in data solutions, analytics and insight.
 
-🌱 My stack:
- * Languages: Python, Java, JavaScript
- * Frameworks: Vue.js, Spring, Flask
- * Databases: SQL Server, DB2, MongoDB, Dynamo DB, Cassandra
- * Data engineering: Spark, Databricks, Kafka
- * RPA: Workfusion, UiPath, Automation Anywhere, Power Automate, Nintex
+## About Me
+
+
+👋 Hi! My name is Edwin, I was born in Guatemala and I started coding when I was 14. In my years in IT I have served different roles such as helpdesk technician, app support, software developer and solution architect.
+
+**I Love**
+
+* 💾 Software Development
+* 🎮 Videogames
+* 💿 Music
+* 🚴 Cycling
+* ✏️ Sketching
+
+**I also am**
+
+* 🐈 Cat Owner
+* ☕ Barista
+
+**I Speak** 
+
+* 🇬🇹 Spanish
+* 🇬🇧 English
+* :de: German
+
+## Certifications
+
+* AWS Cloud Practitioner
+* UiPath Advanced Developer
+* Workfusion ML Engineer
+
+## 🌱 My stack:
+
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" width="75"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" width="75">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" width="75">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" width="75">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mssql.png" width="75">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" width="75">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" width="75">
 
 <!-- - 💞️ I’m looking to collaborate on ...-->
-📫 Find me on twitter as @emaj7b5
 
 <!---
 bluegoldengoldfish/bluegoldengoldfish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
