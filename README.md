@@ -6,18 +6,19 @@
 
 👋 Hi! My name is Edwin, I was born in Guatemala and I started coding when I was 14. In my years in IT I have served different roles such as helpdesk technician, app support, software developer and solution architect.
 
+**Besides a tech guy, I also am**
+
+* 🐈 Cat Owner
+* ☕ Barista
+* 💿 Musicologyist
+  
 **I Love**
 
 * 💾 Software Development
 * 🎮 Videogames
-* 💿 Music
 * 🚴 Cycling
 * ✏️ Sketching
 
-**I also am**
-
-* 🐈 Cat Owner
-* ☕ Barista
 
 **I Speak** 
 
