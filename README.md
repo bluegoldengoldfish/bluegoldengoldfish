@@ -28,9 +28,8 @@
 
 ## Certifications
 
-* AWS Cloud Practitioner
-* UiPath Advanced Developer
-* Workfusion ML Engineer
+<img height="150"  alt="image" src="https://github.com/user-attachments/assets/f01b7195-54e9-4950-a1d4-30cd0cd72ac4" />
+<img height="150"  alt="image" src="https://github.com/user-attachments/assets/566ca08c-3bbf-45c8-8b4a-b94758d20a61" />
 
 ## 🌱 My stack:
 
@@ -54,6 +53,7 @@
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/cassandra.png" width="75">
 
 **Automation/LowCode**
+
 <img src="https://upload.wikimedia.org/wikipedia/de/2/21/UiPath_logo.svg" width="75"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Microsoft_Power_Automate.svg/96px-Microsoft_Power_Automate.svg.png" width="75">
 
 **Others**
